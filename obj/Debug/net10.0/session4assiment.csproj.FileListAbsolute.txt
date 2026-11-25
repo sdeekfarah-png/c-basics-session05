@@ -1,0 +1,15 @@
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\obj\Debug\net10.0\session4assiment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\obj\Debug\net10.0\session4assiment.AssemblyInfoInputs.cache
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\obj\Debug\net10.0\session4assiment.AssemblyInfo.cs
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\obj\Debug\net10.0\session4assiment.csproj.CoreCompileInputs.cache
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\bin\Debug\net10.0\session4assiment.exe
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\bin\Debug\net10.0\session4assiment.deps.json
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\bin\Debug\net10.0\session4assiment.runtimeconfig.json
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\bin\Debug\net10.0\session4assiment.dll
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\bin\Debug\net10.0\session4assiment.pdb
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\obj\Debug\net10.0\session4assiment.dll
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\obj\Debug\net10.0\refint\session4assiment.dll
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\obj\Debug\net10.0\session4assiment.pdb
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\obj\Debug\net10.0\session4assiment.genruntimeconfig.cache
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\obj\Debug\net10.0\ref\session4assiment.dll
+C:\Users\Farah\Desktop\assiment 4\session4assiment\session4assiment\obj\Debug\net10.0\session4.8F432AC0.Up2Date
